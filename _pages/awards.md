@@ -4,7 +4,7 @@ title: "Awards"
 author_profile: true
 ---
 
-* 2023, Climate Investment Challenge Semi-finals of the Main Competition, Imperial College London
+* 2023, [Climate Investment Challenge](https://www.climateinvestmentchallenge.org/) Semi-finals of the Main Competition, Imperial College London
 * 2022, Outstanding Postgraduate Award, Renmin University of China
 * 2021, UCAP Actuarial Scholarship, SOA
 * 2020 & 2021, Learning Excellence Scholarship, Renmin University of China
