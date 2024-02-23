@@ -8,7 +8,16 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+  
+  - title: "Awards"
+    url: /awards/  
+
+  - title: "Grants"
+    url: /grants/
+
+  - title: "Engagements"
+    url: /engagements/
+ 
   #- title: "Portfolio"
   #  url: /portfolio/
         
