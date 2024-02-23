@@ -13,7 +13,7 @@ I'm a PhD candidate from [School of Risk and Actuarial Sciences](https://www.uns
 
 I am very fortunate to be advised by [Prof. Qihe Tang](https://www.unsw.edu.au/staff/qihe-tang), [Prof. Bernard Wong](https://www.unsw.edu.au/staff/bernard-wong), and [Prof. Andy Pitman](https://research.unsw.edu.au/people/professor-andy-pitman).
 
-Education:
+Education
 ===
 2022 – (Expected) 2026: UNSW Sydney, Ph.D. in Risk and Actuarial Studies; Sydney, Australia
 
@@ -24,7 +24,7 @@ Education:
 2016 – 2020: Renmin University of China, Bachelor of Science; Beijing, China	
 
 
-Credentials:
+Credentials
 ===
 Associate of the [Society of Actuaries (ASA)](https://www.soa.org/education/exam-req/edu-asa-req/) Program: Passed Exam P, FM, IFM, STAM, LTAM, SRM, PA, & FAP Modules
 
