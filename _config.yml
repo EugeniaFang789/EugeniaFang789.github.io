@@ -12,7 +12,7 @@ title                    : "Yuxin (Eugenia) Fang / Personal Website"
 title_separator          : "-"
 name                     : &name "Yuxin (Eugenia) Fang"
 description              : &description "personal description"
-url                      : https://yuxinfang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eugeniafang789.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "EugeniaFang789/EugeniaFang789.github.io"
 
