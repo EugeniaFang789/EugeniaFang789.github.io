@@ -13,6 +13,10 @@ I'm a second-year PhD candidate from [School of Risk and Actuarial Sciences](htt
 
 I am very fortunate to be advised by [Prof. Qihe Tang](https://www.unsw.edu.au/staff/qihe-tang), [Prof. Bernard Wong](https://www.unsw.edu.au/staff/bernard-wong), and [Prof. Andy Pitman](https://research.unsw.edu.au/people/professor-andy-pitman).
 
+Research Interests
+===
+Climate Change and Insurance; Climate Risk; Systemic Risk; Sustainable Development.
+
 Education
 ===
 * 2022 – (Expected) 2026: UNSW Sydney, Ph.D. in Risk and Actuarial Studies; Sydney, Australia
@@ -26,6 +30,6 @@ Education
 
 Credentials
 ===
-* Associate of the [Society of Actuaries (ASA)](https://www.soa.org/education/exam-req/edu-asa-req/) Program: Passed Exam P, FM, IFM, STAM, LTAM, SRM, PA, & FAP Modules
+* Associate of the [Society of Actuaries (ASA)](https://www.soa.org/education/exam-req/edu-asa-req/) Program: Completed all requirements; ASA designation expected to be issued in April 2024.
 
-* [Financial Risk Manager (FRM)](https://www.garp.org/frm) Program: Passed FRM Exam Part I & Part II
+* [Financial Risk Manager (FRM)](https://www.garp.org/frm) Program: Passed all exams; currently accruing work experience to receive my FRM designation.
