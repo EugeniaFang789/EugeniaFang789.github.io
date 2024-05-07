@@ -4,6 +4,7 @@ title: "Awards"
 author_profile: true
 ---
 
+* 2024-2025, [SOA James C. Hickman Scholars](https://www.soa.org/education/resources/academic-initiatives/soa-doc-stipend/), SOA
 * 2023, [Climate Investment Challenge](https://www.climateinvestmentchallenge.org/) Semi-finals of the Main Competition, Imperial College London
 * 2022, Outstanding Postgraduate Award, Renmin University of China
 * 2021, UCAP Actuarial Scholarship, SOA
