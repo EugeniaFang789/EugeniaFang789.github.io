@@ -30,6 +30,6 @@ Education
 
 Credentials
 ---
-* Associate of the [Society of Actuaries (ASA)](https://www.soa.org/education/exam-req/edu-asa-req/) Program: Completed all requirements; ASA designation expected to be issued in April 2024.
+* Associate of the [Society of Actuaries (ASA)](https://www.soa.org/education/exam-req/edu-asa-req/).
 
 * [Financial Risk Manager (FRM)](https://www.garp.org/frm) Program: Passed all exams; currently accruing work experience to receive my FRM designation.
