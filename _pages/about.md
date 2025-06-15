@@ -15,7 +15,7 @@ I am very fortunate to be advised by [Prof. Qihe Tang](https://www.unsw.edu.au/s
 
 Research Interests
 ---
-Climate Change and Insurance; Climate Risk; Systemic Risk; Sustainable Development.
+Climate extremes; Financial crises; Climate economic models; Systemic climate risk.​
 
 Education
 ---
