@@ -9,13 +9,14 @@ redirect_from:
 
 Thank you for visiting my website.
 
-I'm a second-year PhD candidate from [School of Risk and Actuarial Sciences](https://www.unsw.edu.au/business/our-schools/risk-actuarial), [UNSW Sydney](https://www.unsw.edu.au/).
+I'm a third-year PhD candidate from [School of Risk and Actuarial Sciences](https://www.unsw.edu.au/business/our-schools/risk-actuarial), [UNSW Sydney](https://www.unsw.edu.au/).
 
 I am very fortunate to be advised by [Prof. Qihe Tang](https://www.unsw.edu.au/staff/qihe-tang), [Prof. Bernard Wong](https://www.unsw.edu.au/staff/bernard-wong), and [Prof. Andy Pitman](https://research.unsw.edu.au/people/professor-andy-pitman).
 
 Research Interests
 ---
-Climate extremes; Financial crises; Climate economic models; Systemic climate risk.​
+Climate Change and Insurance; Climate Extremes; Financial Crises; Climate Economic Modeling; Integrated Assessment Models; Systemic Climate Risk.
+
 
 Education
 ---
@@ -30,6 +31,6 @@ Education
 
 Credentials
 ---
-* Associate of the [Society of Actuaries (ASA)](https://www.soa.org/education/exam-req/edu-asa-req/).
+* Associate of the [Society of Actuaries (ASA)](https://www.soa.org/education/exam-req/edu-asa-req/), 2024.
 
-* [Financial Risk Manager (FRM)](https://www.garp.org/frm) Program: Passed all exams; currently accruing work experience to receive my FRM designation.
+* [Financial Risk Manager (FRM)](https://www.garp.org/frm) Program: Passed all exams; expect to receive the FRM designation in 2026.
