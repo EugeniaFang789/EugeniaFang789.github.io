@@ -4,6 +4,7 @@ title: "Awards"
 author_profile: true
 ---
 
+* 2025: Riĉardas Zitikis International Research Prize in Quantitative Risk Management, Risk and Insurance Studies Centre (RISC Foundation), $1,500 CAD.
 * 2024–26: [James C. Hickman Scholars](https://www.soa.org/resources/announcements/press-releases/2024/hickman-scholars/), Society of Actuaries (SOA), $20,000 USD each year. I am the first recipient outside North America.
 * 2023–25: UNSW Development and Research Training Grant, $1,500 AUD each year.
 * 2022–25: UNSW School of Risk and Actuarial Studies PhD Research Fund, $3,500 AUD each year.
