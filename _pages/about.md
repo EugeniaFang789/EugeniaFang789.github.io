@@ -9,9 +9,9 @@ redirect_from:
 
 Thank you for visiting my website.
 
-I'm a fourth-year PhD candidate from [School of Risk and Actuarial Sciences](https://www.unsw.edu.au/business/our-schools/risk-actuarial), [UNSW Sydney](https://www.unsw.edu.au/).
+I'm a fourth-year PhD candidate from School of Risk and Actuarial Sciences, UNSW Sydney.
 
-I am very fortunate to be advised by [Prof. Qihe Tang](https://www.unsw.edu.au/staff/qihe-tang), [Prof. Bernard Wong](https://www.unsw.edu.au/staff/bernard-wong), and [Prof. Andy Pitman](https://research.unsw.edu.au/people/professor-andy-pitman).
+I am very fortunate to be advised by Prof. Qihe Tang, Prof. Bernard Wong, and Prof. Andy Pitman.
 
 Research Interests
 ---
