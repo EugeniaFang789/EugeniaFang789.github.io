@@ -6,17 +6,17 @@ main:
   - title: "Working Papers"
     url: /workingpapers/
     
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
   
-  - title: "Awards"
-    url: /awards/  
+#  - title: "Awards"
+#    url: /awards/  
 
-  - title: "Grants"
-    url: /grants/
+#  - title: "Grants"
+#    url: /grants/
 
-  - title: "Service"
-    url: /service/
+#  - title: "Service"
+#    url: /service/
