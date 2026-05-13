@@ -22,4 +22,4 @@ main:
 #    url: /service/
 
   - title: "CV"
-    url: /files/cv.pdf
+    url: "/files/cv.pdf"
