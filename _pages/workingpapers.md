@@ -4,24 +4,19 @@ title: "Working Papers"
 author_profile: true
 ---
 
-Climate Extremes and Financial Crises: Similarities, Differences, and Interplay
+A Comparative Study of Climate Extremes and Financial Crises
 ---
-* We aim to conceptualize the connection between climate extremes and financial crises by
-articulating their similarities, differences, and interplay from a complex system perspective. 
-* We argue that both are emergent disruptions to the normal functioning of their respective complex systems. Despite their differences in adaptivity, they share functional components and structural features, including nonlinear dynamics, contagion, feedbacks, phase transitions, and tipping points.
-* We also observe epistemological resemblances between the two extremes in how they are studied, represented, and understood.
-
-Assessing the Role of Insurance in Climate Policy: A DICE Model Framework Under Uncertainty
----
-* This study quantitatively examines the role of insurance in climate policy under uncertainty.
-* We introduce a public insurance component into the Dynamic Integrated Climate-
-Economy (DICE) model, representing an adaptation alternative to the mitigation policy.
-* By explicitly modeling insurance payouts, premiums, and their effects on
-economic dynamics and mitigation incentives, we seek to quantify how insurance influences
-policy decisions, climate-economy trajectories, and the social cost of carbon (SCC).
+* Although climate extremes and financial crises arise in distinct domains, both are highly disruptive events characterised by strong nonlinearities. We establish a structural analogy between climate extremes and financial crises through three progressively deeper layers: observed impacts, formation mechanisms, and system-level emergence.
 
 Measuring Systemic Climate Risk
 ---
-* Climate change poses a long-term threat to the financial sector that needs to be evaluated through stress testing. However, current scenarios often fail to reflect compound risk, where climate and market risks materialize simultaneously. 
-* We apply extreme value analysis to better capture the tail behaviour of these risks. We conduct empirical analysis for U.S. insurers, primarily using Climate Efficient Factor Mimicking Portfolio (CEP) as the climate risk factor. Five scenarios are designed to assess conditional expected losses from marginal and joint effects of climate and market stress.
-* Isolating these risks leads to a significant underestimation of potential losses.
+* The compounding effect of transition risk and market distress poses a systemic threat to the financial system. We measure this through the expected shortfall under joint climate and market stress, followed by an extreme value analysis under rare but plausible scenarios and comprehensive empirical studies.
+
+Assessing the Role of Insurance in Climate Policy: A DICE Model Framework Under Uncertainty
+---
+* Climate change is a dynamic challenge shaped by uncertain feedbacks between the climate system and the economy. Insurance matters as a tool for uncertainty management. We incorporate an insurance mechanism into the Dynamic Integrated Model of Climate and the Economy (DICE) and assess its effects on economic dynamics, mitigation incentives, and the social cost of carbon.
+
+Central Clearing in Managing Corporate Default Clustering in a Warming World
+---
+* Since the Global Financial Crisis, regulators have relied more on central counterparties to make derivatives markets safer, but these institutions can also become sources of systemic risk if shocks spread through them. We study how climate-related stress may intensify default clustering and how CCPs can be better designed to manage counterparty risk.
+* Available at SSRN: [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6743381).
