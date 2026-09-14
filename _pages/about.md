@@ -9,9 +9,9 @@ redirect_from:
 
 Thank you for visiting my website.
 
-I obtained my PhD in Actuarial Studies from UNSW Sydney.
+I am an Early Career Academic Fellow at the School of Risk and Actuarial Studies, UNSW Sydney.
 
-I am very fortunate to be advised by [Prof. Qihe Tang](https://www.unsw.edu.au/staff/qihe-tang), [Prof. Bernard Wong](https://www.unsw.edu.au/staff/bernard-wong), and [Prof. Andy Pitman](https://www.unsw.edu.au/staff/andy-pitman).
+I obtained my PhD in Actuarial Studies from UNSW Sydney. I am very fortunate to be advised by [Prof. Qihe Tang](https://www.unsw.edu.au/staff/qihe-tang), [Prof. Bernard Wong](https://www.unsw.edu.au/staff/bernard-wong), and [Prof. Andy Pitman](https://www.unsw.edu.au/staff/andy-pitman).
 
 Research Interests
 ---
