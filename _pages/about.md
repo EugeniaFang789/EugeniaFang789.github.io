@@ -20,7 +20,7 @@ Climate Change and Insurance; Climate Extremes; Financial Crises; Climate Econom
 
 Education
 ---
-* 2022 – 2026: UNSW Sydney, Ph.D. in Risk and Actuarial Studies; Sydney, Australia
+* 2022 – 2026: UNSW Sydney, Ph.D. in Actuarial Studies; Sydney, Australia
 
 * 2020 – 2022: Renmin University of China, Master of Applied Statistics; Beijing, China
 
