@@ -9,9 +9,9 @@ redirect_from:
 
 Thank you for visiting my website.
 
-I'm a fourth-year PhD candidate from School of Risk and Actuarial Sciences, UNSW Sydney.
+I obtained my PhD in Actuarial Studies from UNSW Sydney.
 
-I am very fortunate to be advised by Prof. Qihe Tang, Prof. Bernard Wong, and Prof. Andy Pitman.
+I am very fortunate to be advised by [Prof. Qihe Tang](https://www.unsw.edu.au/staff/qihe-tang), [Prof. Bernard Wong](https://www.unsw.edu.au/staff/bernard-wong), and [Prof. Andy Pitman](https://www.unsw.edu.au/staff/andy-pitman).
 
 Research Interests
 ---
@@ -20,7 +20,7 @@ Climate Change and Insurance; Climate Extremes; Financial Crises; Climate Econom
 
 Education
 ---
-* 2022 – (Expected) 2026: UNSW Sydney, Ph.D. in Risk and Actuarial Studies; Sydney, Australia
+* 2022 – 2026: UNSW Sydney, Ph.D. in Risk and Actuarial Studies; Sydney, Australia
 
 * 2020 – 2022: Renmin University of China, Master of Applied Statistics; Beijing, China
 
